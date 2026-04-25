@@ -1,0 +1,6 @@
+{
+	"extraScripts": [
+		"markdownItAdmonition.ts",
+		"dashboardPanel.ts"
+	]
+}
